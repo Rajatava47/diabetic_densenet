@@ -1,6 +1,6 @@
 # Diabetic retinopathy-detection
 
-Diabetic Retinopathy Overview Diabetic retinopathy is a medical condition where chronic high blood sugar levels damage the delicate blood vessels in the retina, the light-sensitive tissue at the back of the eye. Over time, these vessels can swell, leak fluid, or close off entirely, sometimes triggering the growth of abnormal new vessels that further interfere with vision.
+Diabetic Retinopathy is a medical condition where chronic high blood sugar levels damage the delicate blood vessels in the retina, the light-sensitive tissue at the back of the eye. Over time, these vessels can swell, leak fluid, or close off entirely, sometimes triggering the growth of abnormal new vessels that further interfere with vision.
 
 Effects on the Eye As the condition progresses, the structural damage to the retinal blood vessels leads to several significant visual impairments:
 
