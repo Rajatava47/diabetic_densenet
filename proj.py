@@ -121,7 +121,7 @@ if not os.path.exists(MODEL_PATH):
 
 @st.cache_resource
 def load_model():
-    model = timm.create_model('convnext_base', pretrained=False, num_classes=5)
+    model = timm.create_model('densenet169', pretrained=False, num_classes=5)
     model.load_state_dict(torch.load(MODEL_PATH, map_location="cpu", weights_only=False))
     model.eval()
     return model
